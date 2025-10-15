@@ -1,6 +1,4 @@
-## Guia How-To – Publicar um produto no CashUp
-
-# Como publicar um produto no CashUp
+## Como publicar um produto no CashUp
 
 ### O que este guia cobre  
 Este guia mostra como anunciar um novo produto no app **CashUp**, desde o acesso até a publicação.
