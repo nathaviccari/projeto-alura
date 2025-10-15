@@ -1,13 +1,5 @@
 ## Guia de Início Rápido: Criando sua conta no CashUp
 
-### Contexto  
-O **Guia de Início Rápido** (Quick Start Guide) mostra, de forma simples e direta, como começar a usar o **CashUp**, um app de compra e venda entre pessoas.  
-Aqui, você vai aprender os primeiros passos para criar sua conta e começar a explorar o marketplace.
-
----
-
-## Exemplo de documentação  
-
 # Criando sua conta no CashUp
 
 ### Visão Geral  
