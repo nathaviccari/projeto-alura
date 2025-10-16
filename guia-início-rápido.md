@@ -1,60 +1,72 @@
-## Guia de Início Rápido: Criando sua conta no CashUp
+# Guia de Início Rápido – CashUp
 
-# Criando sua conta no CashUp
-
-### Visão Geral  
-Este guia vai te orientar no seguinte processo:
-
-* Criar uma conta gratuita no CashUp  
-* Ativar seu perfil de usuário  
-* Personalizar as informações básicas  
+O **CashUp** foi criado para quem quer começar rápido.  
+Em poucos passos, você cria uma conta, anuncia um produto e faz sua primeira venda.
 
 ---
 
-### Antes de começar  
-Certifique-se de que você tem:
+## 1. Crie sua conta
 
-* Um e-mail válido  
-* Acesso à internet  
-* O aplicativo **CashUp** instalado no seu celular  
+1. Acesse [cashup.app](#).  
+2. Escolha **Criar conta**.  
+3. Cadastre seu e-mail ou entre com Google ou Apple ID.  
+4. Confirme o link enviado por e-mail.  
 
----
-
-### Comece a usar o CashUp  
-
-#### Passo 1: Acesse o aplicativo  
-1. Abra o app **CashUp**.  
-2. Toque em **Criar Conta** na tela inicial.  
+> Em menos de dois minutos, sua conta estará ativa.
 
 ---
 
-#### Passo 2: Preencha seus dados  
-1. Digite seu **nome completo**, **e-mail** e crie uma **senha com pelo menos 8 caracteres**.  
-2. Toque em **Avançar** para continuar.  
+## 2. Configure seu perfil
+
+- Adicione uma foto.  
+- Escreva uma descrição curta sobre você ou sua loja.  
+- Ative notificações importantes: mensagens, ofertas e vendas.  
+
+Um perfil completo inspira confiança e facilita suas negociações.
 
 ---
 
-#### Passo 3: Ative sua conta  
-Você receberá um e-mail de confirmação.  
-Abra a mensagem, clique no link e sua conta estará ativa.
+## 3. Anuncie seu primeiro produto
+
+1. Vá em **Vender → Novo produto**.  
+2. Adicione fotos nítidas e bem iluminadas.  
+3. Escreva um título curto e objetivo.  
+4. Defina preço e categoria.  
+5. Clique em **Publicar**.  
+
+> Seu produto ficará visível imediatamente para outros usuários.
 
 ---
 
-#### Passo 4: Personalize seu perfil  
-1. Faça login no app.  
-2. Vá em **Meu Perfil > Configurações**.  
-3. Adicione uma foto, sua localização e escolha o método de pagamento (Pix, transferência ou **CashUp Pay**).
+## 4. Converse com compradores
+
+O chat integrado permite tirar dúvidas, combinar entrega e fechar negócio com segurança.  
+Todas as mensagens são protegidas e ficam disponíveis no seu histórico.
 
 ---
 
-### Solução de Problemas  
+## 5. Receba pagamentos com segurança
 
-| Situação | O que pode estar acontecendo | Como resolver |
-|-----------|------------------------------|----------------|
-| **Não recebi o e-mail de ativação** | O e-mail pode estar incorreto ou ter ido para o spam. | Verifique a pasta de spam ou solicite um novo link pela tela de login. |
-| **Erro ao criar senha** | A senha não atende aos requisitos mínimos. | Use ao menos 8 caracteres, misturando letras e números. |
-| **App não conecta** | Internet instável ou servidor temporariamente fora do ar. | Verifique a conexão e tente novamente em alguns minutos. |
+O CashUp utiliza meios de pagamento verificados e oferece suporte em cada etapa da transação.  
+Você pode acompanhar tudo pelo painel de controle.
+
 ---
 
-> **Nota:** Este tutorial foi desenvolvido como parte de uma prática do curso de *Technical Writing* da [Alura](https://www.alura.com.br/).  
-> O projeto fictício **CashUp** foi criado para fins educacionais e demonstra boas práticas de escrita técnica.
+## 6. Avalie e cresça
+
+Após cada venda ou compra, avalie a experiência.  
+Suas avaliações constroem reputação — e reputação gera mais vendas.
+
+---
+
+## Precisa de ajuda?
+
+Para suporte técnico, consulte o [**Troubleshooting**](./troubleshooting.md).  
+Dúvidas gerais estão na [**FAQ**](./faq.md).
+
+---
+
+### Sobre este guia
+
+Este documento faz parte do projeto de estudo da formação **Technical Writing (Alura)**.  
+Inspirado em guias de produtos reais, o objetivo é demonstrar como criar **documentação de onboarding** com foco em clareza, rapidez e tom humano.
