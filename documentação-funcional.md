@@ -32,21 +32,20 @@ O CashUp foi desenvolvido para **vendedores autônomos, pequenos empreendedores 
 3. Cadastre seu primeiro produto  
 4. Comece a vender ou comprar
 
-👉 Consulte o tutorial: [**Como criar uma conta no CashUp**](./docs/tutorial-criar-conta.md)
+Consulte o tutorial: [**Como criar uma conta no CashUp**](./docs/tutorial-criar-conta.md)
 
 ---
 
 ## Documentação complementar
 
-Esta documentação funcional faz parte do repositório de **Escrita Técnica e UX Design**, servindo como **documento-mãe (DDD)** para:
+Esta documentação funcional faz parte do repositório de **Escrita Técnica e UX Design**, servindo como **documento-mãe (DDD)** do projeto CashUp.
 
-- [Inventário de Documentação](./02_Inventario/inventario_cashup.csv)  
-- [Mapeamento de Conteúdo](./03_Mapeamento/mapeamento_cashup.md)  
-- [Escopo e Não-escopo](./04_Escopo/escopo_cashup.md)  
-- [Plano de Documentação](./05_Plano/plano_documentacao_cashup.md)
+A partir dela, são derivados outros materiais de documentação e suporte ao usuário, incluindo:
 
----
+- Inventário de Documentação 
+- Mapeamento de Conteúdo 
+- Tutoriais e Guias de Uso 
+- Troubleshooting
 
-## Autoria
+Os documentos de **Escopo** e **Plano de Documentação** são mantidos em ambiente privado para fins de gestão e apresentação estratégica em portfólio.
 
-**Nathalia Viccari**
