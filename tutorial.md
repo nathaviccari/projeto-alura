@@ -1,72 +1,114 @@
-## Modelo de Tutorial – CashUp
+# Como criar sua conta no CashUp
 
-# Crie sua conta no CashUp
+Criar sua conta no **CashUp** é rápido, simples e seguro.  
+Em poucos minutos, você pode anunciar produtos, conversar com compradores e começar a vender.
 
-### Visão Geral  
-Neste tutorial, você vai aprender como criar uma conta gratuita no **CashUp**, o aplicativo de compra e venda entre pessoas.  
-Com uma conta ativa, você pode anunciar produtos, conversar com compradores e receber pagamentos de forma segura.
-
----
-
-### Antes de começar  
-Tenha em mãos:
-- Um endereço de e-mail válido  
-- Acesso à internet  
-- O aplicativo **CashUp** instalado no seu celular (Android ou iOS)
+Este tutorial mostra cada etapa do processo — do primeiro acesso à confirmação do seu perfil.
 
 ---
 
-### Passo 1: Acesse o aplicativo  
-1. Abra o app **CashUp**.  
-2. Toque em **Criar Conta** na tela inicial.  
-3. Siga as instruções que aparecem na tela.
+## 1. Acesse o site ou aplicativo
+
+Abra o navegador e digite **[cashup.app](#)**.  
+Se preferir, baixe o aplicativo CashUp na App Store ou no Google Play.
+
+> O CashUp foi desenvolvido para funcionar da mesma forma em qualquer dispositivo — desktop, tablet ou smartphone.
 
 ---
 
-### Passo 2: Preencha seus dados  
-1. Informe seu **nome completo**.  
-2. Digite um **e-mail válido**.  
-3. Crie uma **senha com pelo menos 8 caracteres**, combinando letras e números.  
-4. Toque em **Avançar** para continuar.
+## 2. Escolha “Criar conta”
+
+Na tela inicial, selecione **Criar conta**.  
+Você pode se cadastrar com:
+- E-mail e senha  
+- Conta Google  
+- Conta Apple  
+
+> Todas as formas de login seguem os mesmos padrões de segurança e privacidade.
 
 ---
 
-### Passo 3: Ative sua conta  
-Após o cadastro, você receberá um e-mail de confirmação.  
-Abra a mensagem e clique no link de ativação.  
-Sua conta estará pronta para uso.
+## 3. Insira suas informações
+
+Preencha os campos solicitados:
+- **Nome completo**  
+- **E-mail válido**  
+- **Senha segura** (mínimo de 8 caracteres, com letras e números)
+
+Você receberá um e-mail de confirmação logo em seguida.  
+Clique no link enviado para ativar sua conta.
 
 ---
 
-### Passo 4: Configure seu perfil  
-1. Faça login no app.  
-2. Vá em **Meu Perfil > Configurações**.  
-3. Adicione uma foto, sua localização e escolha o método de pagamento (Pix, transferência ou **CashUp Pay**).
+## 4. Personalize seu perfil
+
+Depois de ativar, acesse **Meu Perfil** e adicione:
+- Foto de perfil  
+- Descrição curta sobre você ou sua loja  
+- Localização aproximada (opcional)  
+
+Essas informações ajudam outros usuários a reconhecer e confiar no seu perfil.
+
+> Você pode editar seu perfil a qualquer momento nas configurações da conta.
 
 ---
 
-### Solução de Problemas  
+## 5. Configure notificações e preferências
 
-| Situação | O que pode estar acontecendo | Como resolver |
-|-----------|------------------------------|----------------|
-| **Não recebi o e-mail de ativação** | O e-mail pode estar incorreto ou ter ido para o spam. | Verifique a pasta de spam ou solicite um novo link pela tela de login. |
-| **Erro ao criar senha** | A senha não atende aos requisitos mínimos. | Use pelo menos 8 caracteres, misturando letras e números. |
-| **App não conecta** | Internet instável ou servidor temporariamente fora do ar. | Verifique a conexão e tente novamente em alguns minutos. |
+No menu **Configurações**, escolha como deseja ser notificado:
+- Mensagens novas  
+- Ofertas recebidas  
+- Atualizações de produtos salvos  
 
----
-
-### O que vimos aqui  
-Neste tutorial, você aprendeu:
-- Como criar sua conta gratuita no CashUp  
-- Como ativar e configurar seu perfil  
-- Como resolver problemas comuns no processo de cadastro
+Ative apenas o que for relevante para você.  
+O CashUp valoriza sua experiência, não o excesso de alertas.
 
 ---
 
-### Próximos Passos  
-- [Como publicar seu primeiro produto no CashUp](how_to_publicar_produto.md)  
+## 6. Cadastre seu primeiro produto
+
+Pronto para começar?  
+Vá em **Vender → Novo produto** e siga as instruções:
+
+1. Adicione **fotos** nítidas (até 5 imagens).  
+2. Escreva um **título** curto e descritivo.  
+3. Inclua uma **descrição detalhada** com informações relevantes.  
+4. Defina o **preço** e o **estado** do produto.  
+5. Escolha **categorias e tags** para facilitar a busca.  
+6. Clique em **Publicar**.
+
+Seu anúncio ficará visível imediatamente na plataforma.
 
 ---
 
-> **Nota:** Este tutorial foi desenvolvido como parte de uma prática do curso de *Technical Writing* da [Alura](https://www.alura.com.br/).  
-> O projeto fictício **CashUp** foi criado para fins educacionais e demonstra boas práticas de escrita técnica.
+## 7. Explore, compre e venda
+
+Agora que você tem uma conta ativa:
+- Explore produtos na página inicial.  
+- Salve itens como favoritos.  
+- Use o chat para negociar com compradores ou vendedores.  
+- Receba avaliações e construa sua reputação.
+
+> Cada interação no CashUp foi pensada para ser simples, segura e humana.
+
+---
+
+## Dicas para começar bem
+
+- Mantenha suas fotos atualizadas e claras.  
+- Responda às mensagens rapidamente.  
+- Avalie suas transações: confiança é a base da comunidade CashUp.  
+- Use títulos curtos — eles ajudam outros usuários a encontrar seu produto.
+
+---
+
+## Precisa de ajuda?
+
+Acesse a seção [**FAQ**](./faq.md) para dúvidas frequentes ou o guia de [**Troubleshooting**](./troubleshooting.md) para suporte técnico.  
+
+---
+
+### Sobre este tutorial
+
+Este documento faz parte da coleção de exemplos de **escrita técnica aplicada** da formação *Technical Writing (Alura)*.  
+Baseado em princípios de **UX Writing** e **Documentation Driven Development (DDD)**, este material demonstra como criar tutoriais claros, consistentes e orientados à ação.
