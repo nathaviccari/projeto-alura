@@ -1,6 +1,6 @@
 # Projeto Alura - CashUp
 
-O **CashUp** é uma plataforma fictícia de compra e venda de produtos variados, criada como estudo prático para a formação **Technical Writing (Alura)**.  
+O **CashUp** é uma plataforma fictícia de compra e venda de produtos variados, criada como estudo prático para a formação [**Technical Writing (Alura)**](https://github.com/marimoreiratw/projeto-alura).
 
 ---
 
